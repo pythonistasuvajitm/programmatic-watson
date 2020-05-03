@@ -1,0 +1,35 @@
+.DS_Store
+
+# Python
+.pytest_cache/
+__pycache__
+*.pyc
+*.egg-info
+.cache
+.eggs
+
+# Django
+*.sqlite3
+cert.crt
+cert.key
+media/
+scripts.log
+settings_*.py
+staticfiles/
+
+
+# Virtualenv
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib64
+[Ll]ocal
+.venv
+pip-selfcheck.json
+pyvenv.cfg
+
+# IDE
+*.iml
+.idea
+.ropeproject
+.vscode

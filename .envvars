@@ -1,0 +1,6 @@
+DJANGO_SECRET_KEY=b(!7!3w7*mr1$w=eyxpupu&50q-0@()l-w@q36x70cavo_(1fw
+WATSON_API_KEY=xxx
+WATSON_COLLECTION_ID=xxx
+WATSON_CONFIGURATION_ID=xxx
+WATSON_ENVIRONMENT_ID=xxx
+WATSON_SERVICE_BASE_URL=https://api.eu-gb.discovery.watson.cloud.ibm.com
